@@ -1,0 +1,5 @@
+ts_format=dd-mm-yyyy
+log_level=ERROR
+sink_type=FILE
+file_location=C:\\Users\\shubham\\Desktop\\error.log
+write_mode=SYNC

@@ -1,0 +1,5 @@
+ts_format=dd-mm-yyyy
+log_level=INFO
+sink_type=FILE, DB
+file_location=C:\\Users\\shubham\\Desktop\\info.log
+write_mode=SYNC
